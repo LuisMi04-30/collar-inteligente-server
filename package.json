@@ -1,0 +1,12 @@
+{
+  "name": "collar-inteligente-server",
+  "version": "1.0.0",
+  "description": "Servidor Cloud del Collar Inteligente",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
